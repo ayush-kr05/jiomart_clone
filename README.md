@@ -1,4 +1,4 @@
-## Netlify Deployed Link - [Live demo](https://adorable-clafoutis-27b5bb.netlify.app) <br>
+## Netlify Deployed Link - [Live demo](https://jio-mart-clone05.netlify.app) <br>
 <br>
 
 ## **JioMart  landing page** 👇 💻 
@@ -79,7 +79,7 @@
 
 # Project
 > GitHub - [Code](https://github.com/sukhdev-bajiya/jiomart_clone) <br>
-> Netlify - [Live demo](https://adorable-clafoutis-27b5bb.netlify.app) <br>
+> Netlify - [Live demo](https://jio-mart-clone05.netlify.app) <br>
 > Hash node - [Blog](https://jiomart-clone.hashnode.dev/jiomartclone)
 
 # Technology Used

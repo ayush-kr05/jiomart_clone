@@ -1,3 +1,6 @@
+## Netlify Deployed Link - [Live demo](https://adorable-clafoutis-27b5bb.netlify.app) <br>
+<br>
+
 ## **JioMart  landing page** 👇 💻 
 ![image](https://user-images.githubusercontent.com/106476212/183395391-642faa6b-28ba-4f4e-a581-81f6e1368149.png)
 
